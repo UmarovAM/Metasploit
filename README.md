@@ -1,7 +1,9 @@
-# Разрешенные сетевые службы
+## Домашнее задание к занятию «Уязвимости и атаки на информационные системы» Умаров Азиз
+# Задание 1
+## Разрешенные сетевые службы
 ![image](https://github.com/UmarovAM/Metasploit/assets/118117183/002e4fea-b7bb-4dca-ad34-de2f12fdf246)
 
-# Обнаружены Уязвимости
+## Обнаружены Уязвимости
 ### 1. auxiliary/admin/smb/samba_symlink_traversal
 ![image](https://github.com/UmarovAM/Metasploit/assets/118117183/52d65032-c938-459f-a4bb-aa41d585611b)
 
