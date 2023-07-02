@@ -1,4 +1,4 @@
-x# Разрешенные сетевые службы
+# Разрешенные сетевые службы
 ![image](https://github.com/UmarovAM/Metasploit/assets/118117183/002e4fea-b7bb-4dca-ad34-de2f12fdf246)
 
 # Обнаружены Уязвимости
