@@ -5,5 +5,6 @@
 ### 1. auxiliary/admin/smb/samba_symlink_traversal
 ### 2. exploit(unix/ftp/vsftpd_234_backdoor)
 ![image](https://github.com/UmarovAM/Metasploit/assets/118117183/fd9844d4-c601-4c2c-a162-aa30fd36359a)
-
+### 3. use exploit/multi/misc/java_rmi_server
+![image](https://github.com/UmarovAM/Metasploit/assets/118117183/51140842-260d-49e0-8caa-54b55164097a)
 
