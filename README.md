@@ -13,3 +13,23 @@
 ### 3. use exploit/multi/misc/java_rmi_server
 ![image](https://github.com/UmarovAM/Metasploit/assets/118117183/51140842-260d-49e0-8caa-54b55164097a)
 
+# Задание 2
+
+## Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
+## Запишите сеансы сканирования в Wireshark.
+
+### Cканирование Metasploitable в режимах SYN.
+![image](https://github.com/UmarovAM/Metasploit/assets/118117183/466ec4ce-607c-4d9e-88fe-2e7b20601834)
+![image](https://github.com/UmarovAM/Metasploit/assets/118117183/c95161e2-4aab-428c-9f1f-a1bcbe876425)
+
+### Cканирование Metasploitable в режимах FIN.
+![image](https://github.com/UmarovAM/Metasploit/assets/118117183/7060ecf4-1e14-4e27-a3a9-bd4170290d20)
+![image](https://github.com/UmarovAM/Metasploit/assets/118117183/30b3a941-c25e-4803-a721-b0c1f4bf2af3)
+
+### Cканирование Metasploitable в режимах Xmas.
+![image](https://github.com/UmarovAM/Metasploit/assets/118117183/3b6a45b0-7ef6-4b02-8e80-dc04c832dc7b)
+![image](https://github.com/UmarovAM/Metasploit/assets/118117183/1ca80e67-1ff9-4628-a7d9-6ad654e85ab9)
+
+### Cканирование Metasploitable в режимах UDP.
+![image](https://github.com/UmarovAM/Metasploit/assets/118117183/1e105e20-51e6-41f8-b021-31c58d2de2ac)
+![image](https://github.com/UmarovAM/Metasploit/assets/118117183/3abcdb34-cb2e-451f-9d90-fb4bdca0e8ae)
